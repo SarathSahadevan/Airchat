@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.offlineflightchat.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.offlineflightchat.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.offlineflightchat.app-merged_res-28:/layout_activity_chat.xml.flat",
+        "source": "com.example.offlineflightchat.app-main-30:/layout/activity_chat.xml"
+    }
+]

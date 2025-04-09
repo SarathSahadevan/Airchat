@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id interests_input
+id pnr_input
+id start_chat_button
+layout activity_chat
+layout activity_main
+string app_name
